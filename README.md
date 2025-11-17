@@ -133,6 +133,8 @@ AI is revolutionizing how we write, review, debug, and understand code. This lis
 - **[Sourcegraph](https://sourcegraph.com)** - Universal code search with AI assistance (Cody).
 - **[Greptile](https://greptile.com)** - AI-powered codebase understanding and search API.
 - **[CodeQuery](https://codequery.com)** - Semantic code search powered by AI embeddings.
+- **[CodeRabbit](https://coderabbit.ai)** – AI-powered code review assistant for fast, high-quality pull requests.
+- **[CodeRaptor](https://coderaptor.ai)** – AI-driven PR reviewer that detects vulnerabilities, code issues, and suggests fixes automatically.
 
 ## Refactoring & Migration
 
