@@ -100,6 +100,7 @@ AI is revolutionizing how we write, review, debug, and understand code. This lis
 - **[MetaGPT](https://github.com/geekan/MetaGPT)** - Multi-agent framework. Assign different roles to GPTs to form a software company.
 - **[Mentat](https://github.com/AbanteAI/mentat)** - Coding assistant that understands your entire codebase and makes coordinated edits.
 - **[Devon](https://github.com/entropy-research/Devon)** - Open-source AI pair programmer that can do the boring stuff.
+- **[Agentic Sprint](https://github.com/damienlaine/agentic-sprint)** - Spec-driven, self-iterative multi-agent framework for Claude Code. Project Architect coordinates specialized agents through convergent sprints.
 
 ## Testing & Quality Assurance
 
