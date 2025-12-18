@@ -242,6 +242,7 @@ AI is revolutionizing how we write, review, debug, and understand code. This lis
 - **[Semantic Kernel](https://github.com/microsoft/semantic-kernel)** - Microsoft's SDK for integrating AI into applications.
 - **[AutoGen](https://github.com/microsoft/autogen)** - Multi-agent conversation framework for building code agents.
 - **[CrewAI](https://github.com/joaomdmoura/crewAI)** - Framework for orchestrating role-playing autonomous AI agents.
+- **[PraisonAI](https://github.com/MervinPraison/PraisonAI)** - Production-ready Multi-AI Agents framework with self-reflection. Fastest agent instantiation (3.77μs), 100+ LLM support, MCP integration, agentic workflows, Python & JS SDKs.
 - **[PydanticAI](https://ai.pydantic.dev)** - Agent framework from the makers of Pydantic.
 
 ### Code Analysis & Parsing
